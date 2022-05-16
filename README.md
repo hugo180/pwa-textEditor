@@ -1,4 +1,3 @@
-# pwa-textEditor
 
 # pwa-textEditor
 
